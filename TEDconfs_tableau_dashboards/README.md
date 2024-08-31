@@ -11,6 +11,7 @@ TED (от англ. technology, education, design — «технологии, о
 Файлы `tableau_project_data_1.csv`, `tableau_project_data_2.csv`, `tableau_project_data_3.csv` хранят данные выступлений. У них одинаковая структура:
 
 `talk_id` — идентификатор выступления;
+
 `url` — ссылка на запись выступления;
 `title` — название выступления;
 `description` — краткое описание;
